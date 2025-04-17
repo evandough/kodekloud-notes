@@ -8,7 +8,7 @@ Your task is to create a custom Apache user according to the outlined specificat
 - A. Create a user named john on App server 1 within the Stratos Datacenter.
 - B. Assign a unique UID 1843 and designate the home directory as /var/www/john
 
-### Step 1. 
+## Step 1. 
 Use the jump server to SSH into **App server 1**
 - Ran `ssh username@IP`
   - This command securely connects to **App Server 1** via SSH
