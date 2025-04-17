@@ -5,7 +5,7 @@ This repository is a collection of notes, labs, and exercises from my journey le
 ## Tools & Tech Stack
 
 - [Docker](/docker-journey)
-- Linux / Bash
+- [Linux](/linux-journey)
 - Kubernetes
 - Azure
 - Git / GitHub
