@@ -1,6 +1,6 @@
 ## My Docker Journey
 
-- [ ] ☁️ 1 > [Install Docker Packages and Start Docker Service](docker-journey/001/README.md)
+- [ ] ☁️ 1 > [Install Docker Packages and Start Docker Service](001/README.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
