@@ -1,6 +1,6 @@
 ## My Linux Journey
 
-- ☁️ 1 > [Custom Apache User Setup](001/README.md)
+- [x] ☁️ 1 > [Custom Apache User Setup](001/README.md)
 - [ ] ☁️ 2 > [Group Creation and User Assignment](002/README.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
