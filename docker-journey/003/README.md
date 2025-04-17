@@ -5,7 +5,7 @@ A container named `kke-container` was created by one of the Nautilus project dev
 
 Delete the kke-container on `App Server 3` in `Stratos DC`.
 
-### Step 1. 
+## Step 1. 
 Use jump server to SSH into **App Server 3**
 - Ran `ssh username@IP`
   - This command securely connects to **App Server 3** via SSH
