@@ -17,6 +17,6 @@ The system admin team at `xFusionCorp Industries` has streamlined access managem
 
 **DIDN'T WORK - ERROR MESSAGE: - USER 'KANO' DOES NOT EXIST ON APP SERVER 1**
 
-### REFLECTION - I need to SSH into each App Server within the `Stratos Datacenter` to add KANO to successfully complete the task
+## REFLECTION - I need to SSH into each App Server within the `Stratos Datacenter` to add KANO to successfully complete the task
 
 ## Attempt #2
