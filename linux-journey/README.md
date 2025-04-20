@@ -12,4 +12,4 @@
 - [ ] ☁️ 10 > [](010/README.md)
 
 ## Notes
-Need a cheatsheet? [Check This Out!](NOTES.md)
+Need a cheatsheet? [CHECK THIS OUT!](NOTES.md)
