@@ -10,3 +10,6 @@
 - [ ] ☁️ 8 > [](008/README.md)
 - [ ] ☁️ 9 > [](009/README.md)
 - [ ] ☁️ 10 > [](010/README.md)
+
+## Notes
+Need a cheatsheet? [CHECK THIS OUT!](NOTES.md)
