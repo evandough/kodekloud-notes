@@ -5,11 +5,7 @@
 - [x] ☁️ 3 > [Delete Docker Container](003/README.md)
 - [x] ☁️ 4 > [Copy File to Docker Container](004/README.md)
 - [x] ☁️ 5 > [Troubleshoot Docker Container Issue](005/README.md)
-- [ ] ☁️ 6 > [](006/README.md)
-- [ ] ☁️ 7 > [](007/README.md)
-- [ ] ☁️ 8 > [](008/README.md)
-- [ ] ☁️ 9 > [](009/README.md)
-- [ ] ☁️ 10 > [](010/README.md)
+- [x] ☁️ 6 > [Section Test](006/README.md)
 
 ## Notes
 Need a **cheatsheet**? [CHECK THIS OUT!](NOTES.md) This **cheatsheet** is frequently receiving updates the more that is learned.  
