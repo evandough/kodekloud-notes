@@ -2,7 +2,7 @@
 
 - [x] ☁️ 1 > [Custom Apache User Setup](001/README.md)
 - [x] ☁️ 2 > [Group Creation and User Assignment](002/README.md)
-- [ ] ☁️ 3 > [](003/README.md)
+- [x] ☁️ 3 > [Linux User Setup with Non-Interactive Shell](003/README.md)
 - [ ] ☁️ 4 > [](004/README.md)
 - [ ] ☁️ 5 > [](005/README.md)
 - [ ] ☁️ 6 > [](006/README.md)
