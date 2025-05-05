@@ -1,6 +1,16 @@
 # Linux Notes & Resources
 
+# Basic Linux Command Syntax
+`command [options] [arguments]`
+
+	- command – The name of the program or built-in shell command.
+
+	- [options] – Modifiers that change the behavior of the command (usually prefixed with - or --).
+
+	- [arguments] – Targets of the command (files, directories, users, etc.).
+ 
 # Helpful Commands
+- `sudo` - Means "superuser do" | temporarily gives you administrator (root) privileges to run a specific command. This is essential because many system-level tasks — like installing software, changing system settings, or adding users require root access
 - `echo` - This command prints text to the termial or writes to a file
 - `nano` - Opens a file in the Nano text editor
   - ex. `nano wp.config` opens the `wp.config` text editor   
@@ -45,3 +55,5 @@
 - `shutdown` - Shuts down the system
 - `service` - Manages system services
 - `systemctl` - Controls the systemd system and service
+- `useradd -M` - creates a user without a home directory
+  - ex. `sudo useradd -M ammar` = add the user ammar without a home directory 
