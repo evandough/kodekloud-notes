@@ -4,7 +4,7 @@
 - [x] ☁️ 2 > [Group Creation and User Assignment](002/README.md)
 - [x] ☁️ 3 > [Linux User Setup with Non-Interactive Shell](003/README.md)
 - [x] ☁️ 4 > [Service User Creation without Home Directory](004/README.md)
-- [ ] ☁️ 5 > [](005/README.md)
+- [x] ☁️ 5 > [Temporary User Setup With Expiry](005/README.md)
 - [ ] ☁️ 6 > [](006/README.md)
 - [ ] ☁️ 7 > [](007/README.md)
 - [ ] ☁️ 8 > [](008/README.md)
