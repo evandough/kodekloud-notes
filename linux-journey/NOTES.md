@@ -56,4 +56,8 @@
 - `service` - Manages system services
 - `systemctl` - Controls the systemd system and service
 - `useradd -M` - creates a user without a home directory
-  - ex. `sudo useradd -M ammar` = add the user ammar without a home directory 
+  - ex. `sudo useradd -M ammar` = add the user ammar without a home directory
+- `useradd -e` - creates a user with an expiry date
+	- ex. `sudo useradd -e 2050-06-25 username` = creates a user named **username** that expires June 25, 2050
+	- **TO VERIFY** `chage -l` = **view and modify user account aging information** to view the expiry date of the user   
+ 
