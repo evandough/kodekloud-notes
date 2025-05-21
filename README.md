@@ -6,7 +6,7 @@ This repository is a collection of notes, labs, and exercises from my journey le
 
 - Ansible
 - [Docker](/docker-journey)
-- Git
+- [Git](/git-journey)
 - Kubernetes
 - [Linux](/linux-journey)
 - Terraform 
