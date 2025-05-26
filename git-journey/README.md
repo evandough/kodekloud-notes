@@ -2,7 +2,7 @@
 
 - [x] ☁️ 1 > [Set Up Git Repository on Storage Server](001/README.md)
 - [x] ☁️ 2 > [Clone Git Repository on Storage Server](002/README.md)
-- [ ] ☁️ 3 > [Fork a Git Repository](003/README.md)
+- [x] ☁️ 3 > [Fork a Git Repository](003/README.md)
 - [ ] ☁️ 4 > [Update Git Repository with Sample HTML File](004/README.md)
 - [ ] ☁️ 5 > [Delete Git Branch](005/README.md)
 
