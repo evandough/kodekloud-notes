@@ -6,5 +6,5 @@
 - [ ] ☁️ 4 > [Update Git Repository with Sample HTML File](004/README.md)
 - [ ] ☁️ 5 > [Delete Git Branch](005/README.md)
 
-<!-- ## Notes
-Need a **cheatsheet**? [CHECK THIS OUT!](NOTES.md) This **cheatsheet** is frequently receiving updates the more that is learned.  -->
+## Notes
+Need a **cheatsheet**? [CHECK THIS OUT!](NOTES.md) This **cheatsheet** is frequently receiving updates the more that is learned.  
