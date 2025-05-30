@@ -17,4 +17,4 @@ Use jump server to SSH into the **Storage Server**
 Before we can clone the repo to another directory, **you have to `cd` into the directory you want the repo to be in.** So you'll have to `cd` into the `/usr/src/kodekloudrepos` directory. Based off of the Linux command syntax I ran `git clone /opt/media.git /usr/src/kodedkloudrepos`. Ran into a permission issue so I modified the command with `sudo git clone /opt/media.git /usr/src/kodedkloudrepos`. Added the password and **BOOM!** I cloned the repo. 
 
 ## Step 3 - VERIFY!
-`cd` into the /usr/src/kodekloudrepos` directory and ran a `sudo git status` and got a message that I was on the main branch with no commits yet. 
+`cd` into the `/usr/src/kodekloudrepos` directory and ran a `sudo git status` and got a message that I was on the main branch with no commits yet. 
