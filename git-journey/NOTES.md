@@ -1,5 +1,5 @@
 # Git Command Syntax
-git <command> [options] [arguments]
+`git <command> [options] [arguments]`
 
 # Helpful Commands
 - `git add` - stages your changes
