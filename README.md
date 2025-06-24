@@ -9,7 +9,7 @@ This repository is a collection of notes, labs, and exercises from my journey le
 - [Git](/git-journey)
 - Kubernetes
 - [Linux](/linux-journey)
-- Terraform 
+- [Terraform](/terraform-journey) 
 
 ## Purpose
 
