@@ -1,7 +1,7 @@
 ## Terraform Journey
 
 - [x] ☁️ 1 > [Create Key Pair Using Terraform](001/README.md)
-- [ ] ☁️ 2 > [](002/README.md)
+- [x] ☁️ 2 > [Create Security Group Using Terraform](002/README.md)
 - [ ] ☁️ 3 > [](003/README.md)
 - [ ] ☁️ 4 > [](004/README.md)
 - [ ] ☁️ 5 > [](005/README.md)
